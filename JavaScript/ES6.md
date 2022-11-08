@@ -433,6 +433,7 @@ console.log(window.userId);
 	</html>
 	```
 	- result- 
+	
   ![3](https://user-images.githubusercontent.com/73810834/200700874-910809b7-e263-4088-a417-722e4e444cbd.png)
 
 	- export default를 통해 모듈을 대표하는 하나의 값을 지정하고 모듈을 가져올 때 { }를 사용하지 않아도 됨.
