@@ -1,17 +1,18 @@
-# 목차<br> 
-[ES6가 무엇인가](#ES6가-무엇인가) <br> 
-[ES6에서의 자료형](#ES6에서의-자료형) <br> 
-[ES6에서의 객체](#ES6에서의-객체) <br> 
-[ES6에서의 메서드](#ES6에서의-메서드) <br> 
-[ES6 구조 분해 할당](#ES6-구조-분해-할당-(DestructingAssignment)) <br> 
-[Spread Syntax (…)](#Spread-Syntax-(…)) <br> 
-[…는 배열이나 문자열 등을 풀어서 하나 하나로 전개 시킬 수 있다.](#…는-배열이나-문자열-등을-풀어서-하나-하나로-전개-시킬-수-있다.) <br> 
-[Default Parameter](#Default-Parameter) <br> 
-[Template 란 무엇인가](#Template-란-무엇인가) <br> 
-[Arrow Function(화살표 함수)](#Arrow-Function(화살표-함수)) <br> 
-[화살표 함수를 사용하면 안되는 경우!!!!!!! → 중요](#화살표-함수를-사용하면-안되는-경우!!!!!!!-→-중요) <br>
-[ES6에서의 객체](#ES6에서의-객체)<br>
+# 목차 <br> 
+1. [ES6가 무엇인가](#ES6가-무엇인가) <br> 
+2. [ES6에서의 자료형](#ES6에서의-자료형) <br> 
+3. [ES6에서의 객체](#ES6에서의-객체) <br> 
+4. [ES6에서의 메서드](#ES6에서의-메서드) <br> 
+5. [ES6 구조 분해 할당](#ES6-구조-분해-할당-(DestructingAssignment)) <br> 
+6. [Spread Syntax (…)](#Spread-Syntax-(…)) <br> 
+7. […는 배열이나 문자열 등을 풀어서 하나 하나로 전개 시킬 수 있다.](#…는-배열이나-문자열-등을-풀어서-하나-하나로-전개-시킬-수-있다.) <br> 
+8. [Default Parameter](#Default-Parameter) <br> 
+9. [Template 란 무엇인가](#Template-란-무엇인가) <br> 
+10. [Arrow Function(화살표 함수)](#Arrow-Function(화살표-함수)) <br> 
+11. [화살표 함수를 사용하면 안되는 경우!!!!!!! → 중요](#화살표-함수를-사용하면-안되는-경우!!!!!!!-→-중요) <br>
+12. [module](#module) <br>
 
+---
 
 # ES6가 무엇인가
 
