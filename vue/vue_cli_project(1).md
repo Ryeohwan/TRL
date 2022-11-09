@@ -1,4 +1,4 @@
-# Vue 프로젝트 만들기(1) - router, vuex 등
+# Vue 프로젝트(1) - router, vuex 등
 
 # vue cli 의 기본 구조 이해하기
 
