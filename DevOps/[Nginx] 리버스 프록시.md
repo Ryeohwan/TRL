@@ -16,14 +16,25 @@ nginx를 사용하면 로드 밸런싱으로 부하를 줄여줄 수 있고, 분
     Transfer Layer Security
 라는 보안 프로토콜을 통해 클라이언트와 서버가 보안이 향상된 통신을 하는 것을 말한다.
 
-## SSL 과 HTTPS 의 차이는 또 무엇인가..
+# HTTPS는 무엇인가..
 
 HTTP 뒤에 붙는 S는 보안(Secure)을 나타낸다.
 이는 취약점 보완으로 보안이 향상된 웹통신을 하기 위함이 가장 큰 목적이다.
 
 기존 HTTP 프로토콜은 오픈형이라 패킷을 도청당할 수 있기에 이걸 방지한 것이다.
 
+# SSL 과 HTTPS 의 차이
+
+SSL과 TLS(TLS 가 SSL 의 후속 버전인데 일반적으로 그냥 SSL 이라고 한다.) 는 '보안 계층' 이라는 독립적인 프로토콜 계층을 만들어 응용계층과 전송계층 사이에 속하게 된다.
+
+HTTPS는 SSL 또는 TLS 위에 HTTP 프로토콜을 얹어 보안된 HTTP 통신을 하는 프로토콜이다.
+
+즉 SSL 과 TLS 는 HTTP 뿐만이 아니라 FTP, SMTP 와 같이 다른 프로토콜에도 적용할 수 있으며, HTTPS 는 TLS 와 HTTP 조합된 프로토콜만을 가리키는 것이다.
+
+
 
 
 # 참조
 https://narup.tistory.com/238
+
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=skinfosec2000&logNo=222135874222
