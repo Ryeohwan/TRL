@@ -32,3 +32,7 @@
 - [JPA 기초](https://github.com/Ryeohwan/TRL/blob/main/Spring/JPA/JPA%20%EA%B8%B0%EC%B4%88.md)
 - [JPA를 왜 쓰는가](https://github.com/Ryeohwan/TRL/blob/main/Spring/JPA/JPA%EB%A5%BC%20%EC%99%9C%20%EC%93%B0%EB%8A%94%EA%B0%80.md)
 - [MSA에서 트랜잭션처리](https://github.com/Ryeohwan/TRL/blob/main/Spring/JPA/MSA%EC%97%90%EC%84%9C%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%B2%98%EB%A6%AC.md)
+
+# DevOps
+
+- [[Nginx] 리버스 프록시()
