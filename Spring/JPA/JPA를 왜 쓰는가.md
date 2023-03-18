@@ -7,7 +7,7 @@
 3. 데이터 타입
 4. 데이터 식별 방법
 
-
+   
 <br>
 
     기존 SQL 중심적인 개발에서 벗어나서 객체를 자바의 컬렉션에 저장하듯 db에 저장할 수 있게 하는 것이 JPA 이다.
@@ -26,4 +26,4 @@
 ## 1차 캐시와 동일
 
 1. 같은 트랜잭션 안에서는 같은 엔티티를 반환 - 약간의 조회 성능 향상
-2. DB Isolation Level 이 Read Commit 이어도 애플리케이션에서 Repeatable Read 보장
+2. DB Isolation Level 이 Read Commit 이어도 애플리케이션에서 Repeatable Read 보장됨.
